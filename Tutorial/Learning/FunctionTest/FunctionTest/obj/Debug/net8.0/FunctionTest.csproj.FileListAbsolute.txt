@@ -1,0 +1,15 @@
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\bin\Debug\net8.0\FunctionTest.exe
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\bin\Debug\net8.0\FunctionTest.deps.json
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\bin\Debug\net8.0\FunctionTest.runtimeconfig.json
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\bin\Debug\net8.0\FunctionTest.dll
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\bin\Debug\net8.0\FunctionTest.pdb
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\FunctionTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\FunctionTest.AssemblyInfoInputs.cache
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\FunctionTest.AssemblyInfo.cs
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\FunctionTest.csproj.CoreCompileInputs.cache
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\FunctionTest.sourcelink.json
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\FunctionTest.dll
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\refint\FunctionTest.dll
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\FunctionTest.pdb
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\FunctionTest.genruntimeconfig.cache
+E:\Storage\Storage Code\C_Sharp\Tutorial\Learning\FunctionTest\FunctionTest\obj\Debug\net8.0\ref\FunctionTest.dll
