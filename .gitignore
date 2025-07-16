@@ -1,4 +1,65 @@
-.vscode/
+## Ignore Visual Studio files
 .vs/
-*.json
-.gitignore
+.vscode/
+*.user
+*.suo
+
+## Build results
+bin/
+obj/
+[Ll]og/
+*.log
+*.tlog
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+project.lock.json
+project.nuget.cache
+*.nuget.props
+*.nuget.targets
+.nuget/
+
+## Rider
+.idea/
+*.sln.iml
+
+## Build output
+*.dll
+*.exe
+*.pdb
+*.cache
+*.db
+*.db-shm
+*.db-wal
+*.mdb
+*.bak
+
+## Test results
+TestResults/
+*.TestResult.xml
+*.trx
+*.coverage
+*.coveragexml
+*.vsp
+*.vspx
+*.sap
+
+## OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+## Others
+*.tmp
+*.log
+*.old
+*.orig
+
+# Secrets (nếu có)
+.env
+*.secrets.json
