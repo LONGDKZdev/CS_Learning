@@ -25,9 +25,8 @@ namespace Method
             {
                 arr[i] = Console.ReadLine();
             }
-            Console.WriteLine("Strings with more than 3 characters:");
+            Console.Write("Strings with more than 3 characters: ");
             Show(arr);
-            Console.ReadKey();
         }
     }
 }
