@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunctionTest")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ff1141b67f7a5f5d1542751fa217a80a7a4702e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b0976b25f0efc9d45bf71950e204d21f2ce136b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunctionTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunctionTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
